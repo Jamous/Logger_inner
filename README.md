@@ -1,7 +1,7 @@
 # Logger_inner
 Automates login data for websites
 
-#Dependencies
+# Dependencies
 * Google chrome must be installed on the machine.
 * You will need Chrome drivers for your version, they can be found here: https://chromedriver.chromium.org/downloads
 * selenium must be installed. It can be installed with selenium
