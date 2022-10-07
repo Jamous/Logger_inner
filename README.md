@@ -11,4 +11,4 @@ Automates login data for websites
 # Versions
 ***Lumen Logger Inner (loggerinner_lumen.py)***
 
-Lumen now requires logging in once every 30 days to keep a support account active. This script can log into lumen. I have it set to run atomaticly once every 3 weeks.
+Lumen now requires logging in once every 30 days to keep a support account active. You can schedule this script to automaticly log into lumen's support portal.
