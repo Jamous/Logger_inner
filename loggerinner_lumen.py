@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Jamous Bitrick 10/7/22 https://github.com/Jamous/Logger_inner
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
